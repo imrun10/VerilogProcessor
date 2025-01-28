@@ -1,0 +1,218 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/Simulator
+vdec3to8
+Z1 !s110 1683346732
+!i10b 1
+!s100 5Ojlo@F=]bcDoBl]e8jek1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ii;<jdob>nHF3]i:gd:=6V2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1683337331
+Z5 8C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/proc.v
+Z6 FC:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/proc.v
+!i122 5
+L0 246 21
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1683346732.000000
+Z9 !s107 C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/proc.v|
+Z10 !s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/proc.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vflipflop
+!s110 1683346737
+!i10b 1
+!s100 P;6hFOEEa^W3B0XASX7o:2
+R2
+Id=306>X1SkEUIQl532bJ31
+R3
+R0
+w1467672440
+8C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/flipflop.v
+FC:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/flipflop.v
+!i122 7
+L0 1 11
+R7
+r1
+!s85 0
+31
+!s108 1683346737.000000
+!s107 C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/flipflop.v|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/flipflop.v|
+!i113 1
+R11
+R12
+vinst_mem
+!s110 1683346735
+!i10b 1
+!s100 <3aK5z9VJJKM_o[1fSdkC3
+R2
+I[E3A5NE0[Y<0N`AY6C3N52
+R3
+R0
+w1683290660
+8C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/inst_mem.v
+FC:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/inst_mem.v
+!i122 6
+L0 40 67
+R7
+r1
+!s85 0
+31
+!s108 1683346734.000000
+!s107 C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/inst_mem.v|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/inst_mem.v|
+!i113 1
+R11
+R12
+vpart3
+!s110 1683346729
+!i10b 1
+!s100 ZB^62QGBlVCWe3gO:1kUn3
+R2
+I;HiOekf0G`FlRlWI8^7>M0
+R3
+R0
+w1648160256
+8C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/part3.v
+FC:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/part3.v
+!i122 4
+L0 3 43
+R7
+r1
+!s85 0
+31
+!s108 1683346729.000000
+!s107 C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/part3.v|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/part3.v|
+!i113 1
+R11
+R12
+vpc_count
+R1
+!i10b 1
+!s100 EcWTKbRZlE@B9RbWD`aY61
+R2
+ICJogN<n`H0IH:g?lLfG=@1
+R3
+R0
+R4
+R5
+R6
+!i122 5
+L0 231 14
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vproc
+R1
+!i10b 1
+!s100 S?PLbkJemJJWzCAe[iOXS1
+R2
+IN<2dc8nP4QNl:AGOJfnN@1
+R3
+R0
+R4
+R5
+R6
+!i122 5
+L0 1 229
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vregn
+R1
+!i10b 1
+!s100 CfC>iAaM[nE0g981N1X7O0
+R2
+IG7lOdG]l;RZFngfF:mADS0
+R3
+R0
+R4
+R5
+R6
+!i122 5
+L0 268 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtestbench
+!s110 1683346675
+!i10b 1
+!s100 cGCF5]J_oaSLOXREfI1@U1
+R2
+IT3NG;M8lA_<3ez]:hDQec1
+R3
+R0
+w1648016946
+8C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/Simulator/testbench.v
+FC:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/Simulator/testbench.v
+!i122 3
+L0 3 33
+R7
+r1
+!s85 0
+31
+!s108 1683346675.000000
+!s107 C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/Simulator/testbench.v|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/Simulator/testbench.v|
+!i113 1
+R11
+R12
+vtop
+!s110 1683346742
+!i10b 1
+!s100 KMWiohFao7:aIZUCeZCAG1
+R2
+I`AT?GR=enI[9C>7aI?M]T3
+R3
+R0
+w1610698838
+8C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/top.v
+FC:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/top.v
+!i122 8
+L0 1 18
+R7
+r1
+!s85 0
+31
+!s108 1683346742.000000
+!s107 C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/top.v|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/amina/lab10/DE1-SoC/part3.Verilog/top.v|
+!i113 1
+R11
+R12
